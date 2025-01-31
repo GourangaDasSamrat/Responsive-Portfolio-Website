@@ -19,6 +19,7 @@ Watch the video walkthrough of the project to see it in action!
 - 😍 **Beautiful Theme:** A stylish design perfect for Online shopping.
 - 🛍 **Works Display :** Attractive layout for showcasing works.
 - 🎨 **Custom Styling:** Creative use of HTML and CSS fo interactive elements.
+- 📱 **Responsive Design:** Thsi website is responsive for all kind of device like your phoen or pc.
 
 ---
 
