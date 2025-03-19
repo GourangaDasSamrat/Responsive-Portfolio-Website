@@ -54,7 +54,7 @@ Here's a quick overview of the project's file structure:
 
 1. **Clone the repository**
    ```bash
-git@github.com:GourangaDasSamrat/Responsive-Portfolio-Website.git
+   git@github.com:GourangaDasSamrat/Responsive-Portfolio-Website.git
 
 2. Open the index.html file in your browser
 Enjoy view this site.!
