@@ -3,7 +3,7 @@
 Welcome to **Responsive Portfolio Website**! This is a responsive portfolio website designed to show yourself around the world 🌍. 
 
 🌟 **Live Demo**
-Check out the live version of the website: [Responsive Portfolio Website](https://portfoliobygouranga.tiiny.site)
+Check out the live version of the website: [Responsive Portfolio Website](https://responsive-portfolio-website-liard-alpha.vercel.app/)
 
 📹 **Demo Video**
 Watch the video walkthrough of the project to see it in action!
