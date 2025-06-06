@@ -12,20 +12,12 @@
 ---
 
 <p align="center">
-  <img src="Assets/img/hero-img.png" alt="Portfolio Hero Image" width="800px" style="border-radius: 10px; box-shadow: 0 5px 15px rgba(0,0,0,0.2);" />
-</p>
-
-<p align="center">
   <i>🌟 A modern, responsive portfolio website crafted with passion and precision 🚀</i>
 </p>
 
 ---
 
 A modern, responsive portfolio website designed to showcase your professional journey and creative works to the world 🌍.
-
-<p align="center">
-  <img src="Assets/img/hero-img.png" alt="Portfolio Hero Image" width="600px" />
-</p>
 
 ## 🌟 Live Demo
 
